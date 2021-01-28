@@ -1,5 +1,5 @@
 <html>
 <script>
-var req = new XMLHttpRequest(); req.onload = reqListener; req.open('get','api.netlify.com/api/v1/hzero-1/builds/status',true); req.withCredentials = true; req.send('{}'); function reqListener() { alert(this.responseText); };
+var req = new XMLHttpRequest(); req.onload = reqListener; req.open('get','api.netlify.com/api/v1/hzero-1/builds/status',true); req.send('{}'); function reqListener() { alert(this.responseText); };
 </script>
 </html>
