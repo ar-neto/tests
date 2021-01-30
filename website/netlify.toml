@@ -6,4 +6,4 @@
   publish = "website"
 # Configuration for a local plugin
 [[plugins]]
-package = "website"
+package = "/"
