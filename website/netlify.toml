@@ -3,7 +3,7 @@
   # This is where we will look for package.json/.nvmrc/etc.
   # If not set, defaults to the root directory.
   # base = "/"
-  publish = "website"
+  publish = "/"
 # Configuration for a local plugin
 [[plugins]]
 package = "/"
