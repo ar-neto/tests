@@ -1,3 +1,0 @@
-# Configuration for a local plugin
-[[plugins]]
-package = "./netlify-plugin-hello-world"
