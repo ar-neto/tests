@@ -1,7 +1,7 @@
   // index.js
 
 module.exports = {
-    onEnd: () => {
+    onSuccess: () => {
      console.log('Hello world from onPreBuild event!')
     },
   }
