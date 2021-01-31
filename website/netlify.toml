@@ -1,4 +1,4 @@
 # Configuration for a local plugin
 [[plugins]]
-  package = "/"
+  package = "/website"
   #package = "netlify-plugin-is-website-vulnerable"
