@@ -2,7 +2,6 @@
 
 module.exports = {
   onPreBuild: () => {
-    console.log('Hello world from onPreBuild event!');
-    alert(1)
+    console.log('Hello world from onPreBuild event!')
   },
 }
