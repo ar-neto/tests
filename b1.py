@@ -1,2 +1,2 @@
-#!/usr/bin/python 
+#!/bin/python 
 print 'A' * 116
